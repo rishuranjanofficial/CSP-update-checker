@@ -21,7 +21,9 @@ pip3 install validators
 **[CSP-update-checker.py](https://rishuranjanofficial.github.io/CSP-update-checker/CSP-update-checker.py)**
 
 ## POC
-![Flow chart of CSP update checker script](https://user-images.githubusercontent.com/51092706/132815548-4a29eb69-99cc-4d01-a08a-c2588d10c6e8.png)
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/51092706/132815548-4a29eb69-99cc-4d01-a08a-c2588d10c6e8.png" alt="SFlow chart of CSP update checker script"/>
+</p>
 
 ## Issues and Suggestions
 [![GitHub issues](https://img.shields.io/github/issues/rishuranjanofficial/CSP-update-checker?label=Contribution&style=social)](https://github.com/rishuranjanofficial/CSP-update-checker/issues)
