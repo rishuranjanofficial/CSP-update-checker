@@ -18,7 +18,7 @@ pip3 install validators
 - Check for change in CSP from last time [Next release]
 
 ## Download Link 
-**[CSP-update-checker.py](https://raw.githubusercontent.com/rishuranjanofficial/CSP-update-checker/main/CSP-update-checker.py)**
+**[CSP-update-checker.py](https://rishuranjanofficial.github.io/CSP-update-checker/CSP-update-checker.py)**
 
 ## POC
 ![Flow chart of CSP update checker script](https://user-images.githubusercontent.com/51092706/132815548-4a29eb69-99cc-4d01-a08a-c2588d10c6e8.png)
