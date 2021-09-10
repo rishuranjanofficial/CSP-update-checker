@@ -2,7 +2,7 @@
 [![GitHub stars](https://img.shields.io/github/stars/rishuranjanofficial/CSP-update-checker?logoColor=blue&style=social)](https://github.com/rishuranjanofficial/CSP-update-checker/stargazers)   [![GitHub forks](https://img.shields.io/github/forks/rishuranjanofficial/CSP-update-checker?logoColor=blue&style=social)](https://github.com/rishuranjanofficial/CSP-update-checker/network)
 
 ## Introduction
-Content Security Policy(CSP) is additional layer of protection to detect and remediate attack like Cross-Site Scripting (XSS) and injection attacks. Since XSS being commonly found vulnerability and it is always preferred to patched by code level. However, having effective and efficient csp in place can give a breather for DevSecOps of an organization. 
+Content Security Policy(CSP) is additional layer of protection to detect and remediate attack like Cross-Site Scripting (XSS) and injection attacks. Since XSS being commonly found vulnerability and it is always preferred to patched by code level. However, having effective and efficient CSP in place can give a breather for DevSecOps of an organization. 
 
 ## Use Case
 Suppose you have multiple domains to manage. The developer added new 3rd party domain in CSP policy without discussing with security team  in some of the domains. With the help of this tool, you can find out which domain's CSP policy is changed from last time in the input list of domains.
