@@ -22,7 +22,7 @@ pip3 install validators
 
 ## POC
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/51092706/132815548-4a29eb69-99cc-4d01-a08a-c2588d10c6e8.png" alt="SFlow chart of CSP update checker script"/>
+  <img src="https://github.com/rishuranjanofficial/CSP-update-checker/blob/main/Flow%20chart%20of%20CSP%20update%20checker%20script.png?raw=true" alt="Flow chart of CSP update checker script"/>
 </p>
 
 ## Issues and Suggestions
