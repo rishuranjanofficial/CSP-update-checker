@@ -14,8 +14,9 @@ pip3 install validators
 
 ## Features
 - Check for presence of CSP on input domain
-- Calculate the CSP checksum [Next release]
-- Check for change in CSP from last time [Next release]
+- Calculate the CSP checksum
+- Check for change in CSP from last time
+- Bulk domain input and check change in CSP [Next Release]
 
 ## Download Link 
 **[CSP-update-checker.py](https://rishuranjanofficial.github.io/CSP-update-checker/CSP-update-checker.py)**
