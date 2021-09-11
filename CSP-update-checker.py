@@ -56,14 +56,14 @@ def checksumcsp(domain,csp_header):
                 elif (d==domain and h != csp_hash):
                     with open('Domain_Hash.txt', 'a') as fw:  
                         fw.write('%s&%s&%s\n' % (domain, csp_hash,datetime_object))
-                        print("CSP Policy for \""+domain+" is updated from last time "+t) 
+                        print("CSP Policy for \""+domain+"\" is updated from last time "+t) 
                         return
                 elif (domain!=d):
                     new_domain=1
         if (new_domain==1):            
             with open('Domain_Hash.txt', 'a') as fw:  
                 fw.write('%s&%s&%s\n' % (domain, csp_hash,datetime_object))
-                print("CSP Policy for \""+domain+" is added in record") 
+                print("CSP Policy for \""+domain+"\" is added in record") 
                 return                            
     except:
         print("Please try again\n")                                               
