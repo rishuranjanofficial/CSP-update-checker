@@ -11,6 +11,7 @@ The main purpose of this tool is to provide list of domains whose CSP is changed
 
 ## Requirements
 pip3 install validators
+echo '&&&'>Domain_Hash.txt
 
 ## Features
 - Check for presence of CSP on input domain

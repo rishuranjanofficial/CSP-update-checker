@@ -11,4 +11,3 @@
 - Check for presence of CSP on input domain
 - Calculate sha256 checksum of CSP for input domain
 - Check for change in CSP from last time
-
