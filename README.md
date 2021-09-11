@@ -10,8 +10,8 @@ Suppose you have multiple domains to manage. The developer added new 3rd party d
 The main purpose of this tool is to provide list of domains whose CSP is changed from last time.
 
 ## Requirements
-pip3 install validators
-echo '&&&'>Domain_Hash.txt
+- pip3 install validators
+- echo '&&&'>Domain_Hash.txt
 
 ## Features
 - Check for presence of CSP on input domain
