@@ -1,5 +1,7 @@
 # CSP-update-checker
-[![GitHub stars](https://img.shields.io/github/stars/rishuranjanofficial/CSP-update-checker?logoColor=blue&style=social)](https://github.com/rishuranjanofficial/CSP-update-checker/stargazers)   [![GitHub forks](https://img.shields.io/github/forks/rishuranjanofficial/CSP-update-checker?logoColor=blue&style=social)](https://github.com/rishuranjanofficial/CSP-update-checker/network)
+
+<a class="github-button" href="https://github.com/rishuranjanofficial/CSP-update-checker" data-color-scheme="no-preference: light; light: light; dark: light;" data-show-count="true" aria-label="Star rishuranjanofficial/CSP-update-checker on GitHub">Star</a>
+<a class="github-button" href="https://github.com/rishuranjanofficial/CSP-update-checker/fork" data-color-scheme="no-preference: light; light: light; dark: light;" data-show-count="true" aria-label="Fork rishuranjanofficial/CSP-update-checker on GitHub">Fork</a>
 
 ## Introduction
 Content Security Policy(CSP) is additional layer of protection to detect and remediate attack like Cross-Site Scripting (XSS) and injection attacks. Since XSS being commonly found vulnerability and it is always preferred to patched by code level. However, having effective and efficient CSP in place can give a breather for DevSecOps of an organization. 
@@ -24,11 +26,11 @@ The main purpose of this tool is to provide list of domains whose CSP is changed
 
 ## POC
 <p align="center">
-  <img src="https://github.com/rishuranjanofficial/CSP-update-checker/blob/main/Flow%20chart%20of%20CSP%20update%20checker%20script.png?raw=true" alt="Flow chart of CSP update checker script"/>
+  <img src="https://github.com/rishuranjanofficial/CSP-update-checker/blob/main/Flowchart%20of%20CSP%20update%20checker%20script.png?raw=true" alt="Flow chart of CSP update checker script"/>
 </p>
 
 ## Issues and Suggestions
-[![GitHub issues](https://img.shields.io/github/issues/rishuranjanofficial/CSP-update-checker?label=Contribution&style=social)](https://github.com/rishuranjanofficial/CSP-update-checker/issues)
+<a class="github-button" href="https://github.com/rishuranjanofficial/CSP-update-checker/issues" data-color-scheme="no-preference: light; light: light; dark: light;" data-show-count="true" aria-label="Issue rishuranjanofficial/CSP-update-checker on GitHub">Issue</a>
 
 ## Author
 **Rishu Ranjan**
