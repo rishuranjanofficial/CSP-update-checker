@@ -1,7 +1,6 @@
 # CSP-update-checker
 
-<a class="github-button" href="https://github.com/rishuranjanofficial/CSP-update-checker" data-color-scheme="no-preference: light; light: light; dark: light;" data-show-count="true" aria-label="Star rishuranjanofficial/CSP-update-checker on GitHub">Star</a>
-<a class="github-button" href="https://github.com/rishuranjanofficial/CSP-update-checker/fork" data-color-scheme="no-preference: light; light: light; dark: light;" data-show-count="true" aria-label="Fork rishuranjanofficial/CSP-update-checker on GitHub">Fork</a>
+[![GitHub stars](https://img.shields.io/github/stars/rishuranjanofficial/CSP-update-checker?logoColor=blue&style=social)](https://github.com/rishuranjanofficial/CSP-update-checker/stargazers)   [![GitHub forks](https://img.shields.io/github/forks/rishuranjanofficial/CSP-update-checker?logoColor=blue&style=social)](https://github.com/rishuranjanofficial/CSP-update-checker/network)
 
 ## Introduction
 Content Security Policy(CSP) is additional layer of protection to detect and remediate attack like Cross-Site Scripting (XSS) and injection attacks. Since XSS being commonly found vulnerability and it is always preferred to patched by code level. However, having effective and efficient CSP in place can give a breather for DevSecOps of an organization. 
@@ -16,8 +15,9 @@ The main purpose of this tool is to provide list of domains whose CSP is changed
 - echo '&&&'>Domain_Hash.txt
 
 ## Features
-- Check for presence of CSP on input domain
-- Calculate the CSP checksum
+- Check for presence of Content-Security-Policy on input domain
+- Capture the hash of Content-Security-Policy of the input domain in file in format of 
+     > domain&sha256hash(csp)&timestamp
 - Check for change in CSP from last time
 - Bulk domain input and check change in CSP [Next Release]
 
@@ -30,7 +30,7 @@ The main purpose of this tool is to provide list of domains whose CSP is changed
 </p>
 
 ## Issues and Suggestions
-<a class="github-button" href="https://github.com/rishuranjanofficial/CSP-update-checker/issues" data-color-scheme="no-preference: light; light: light; dark: light;" data-show-count="true" aria-label="Issue rishuranjanofficial/CSP-update-checker on GitHub">Issue</a>
+[![GitHub issues](https://img.shields.io/github/issues/rishuranjanofficial/CSP-update-checker?label=Contribution&style=social)](https://github.com/rishuranjanofficial/CSP-update-checker/issues)
 
 ## Author
 **Rishu Ranjan**
