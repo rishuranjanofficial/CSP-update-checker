@@ -15,10 +15,9 @@ The main purpose of this tool is to provide list of domains whose CSP is changed
 - echo '&&&'>Domain_Hash.txt
 
 ## Features
-- Check for presence of Content-Security-Policy on input domain
-- Capture the hash of Content-Security-Policy of the input domain in file in format of 
-     > domain&sha256hash(csp)&timestamp
-- Check for change in CSP from last time
+- Checks Content-Security-Policy(CSP) of the input domain
+- Captures the domain, CSP hash along with timestamp
+- Checks for change in CSP from last time and update
 - Bulk domain input and check change in CSP [Next Release]
 
 ## Download Link 
